@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
